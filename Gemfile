@@ -64,8 +64,5 @@ gem 'devise'
 # bootstrap
 gem 'bootstrap', '~> 4.0.0.alpha3'
 
-# Use mysql as the database for Active Record
-gem 'mysql2'
-
 # redis
 gem 'redis', '~> 3.2'
